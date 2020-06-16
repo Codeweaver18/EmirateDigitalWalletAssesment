@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Database_Access_Layer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Migration\" />
+    <Folder Include="Abstract\" />
+    <Folder Include="DbContext\" />
+    <Folder Include="Entitiy\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+</Project>
