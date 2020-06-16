@@ -1,5 +1,6 @@
-﻿using System;
-
+﻿using ComponentLoader;
+using ComponentLoader.Abstract;
+using System;
 namespace ConsoleUI
 {
   public class Program
